@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(20, 20, 20);
+    color: rgb(252, 163, 17);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1,h2{
+    color: rgb(50, 83, 154);
+}
+
+h1{
+    text-align: center;
+}
+.center{
+    display: block;
+  margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: deeppink;
+}
